@@ -1,1 +1,61 @@
-This is an exciting project, a starting point for opposing the monopoly model of giants and dominating data.We need your help
+This is an exciting project, a starting point for opposing the monopoly model of giants and dominating data.We need your help!
+
+
+# OpenAll Plan
+
+## Vision
+
+OpenAll is a globally governed, fully open foundation-model initiative. Data sources, processing, architecture, training code, checkpoints, losses, logs, evaluations, safety reports, and spending are public and auditable. Models target free use, research, modification, and deployment.
+
+## Principles
+
+- Open the complete lifecycle, not only final weights.
+- Use lawful, traceable data while respecting privacy and creators.
+- Make every release reproducible, evaluable, and auditable.
+- Publish logs and checkpoints continuously with verifiable hashes.
+- Make compute, funding, staffing, and governance transparent.
+- Disclose capabilities, limitations, and safety risks.
+
+## Scale roadmap
+
+OpenAll starts with a reproducible 7B model and grows toward trillion-parameter systems, with a long-term goal of 10T+. Each stage must pass technical, safety, and governance gates.
+
+| Stage | Size | Goal |
+| --- | ---: | --- |
+| OpenAll-7B | 7B | Validate fully open workflows and community reproduction |
+| OpenAll-14B/32B | 14B-32B | Improve multilingual, coding, and reasoning abilities |
+| OpenAll-70B | 70B | Establish reliable multi-node training and inference |
+| OpenAll-200B | 200B | Validate sparse architectures, MoE, and federated compute |
+| OpenAll-1T | 1T | Build trillion-scale training, evaluation, and energy audits |
+| OpenAll-10T+ | 10T+ | Explore sparse, multimodal, and continual-learning models |
+
+Every stage also publishes cost, energy, data volume, effective compute, measured gains, and failed experiments.
+
+## What is open
+
+Publish data sources, licenses, distributions, cleaning and deduplication code, quality criteria, versions, and contribution records. Do not directly release personal information or non-redistributable copyrighted material; publish legal basis, statistics, processing methods, and reproducible alternatives, with complaint, removal, and withdrawal mechanisms.
+
+Publish architecture, tokenizer, vocabulary, initialization, optimizer, schedules, parallelism, training configuration, data mixture, training code, and deployment code. Every checkpoint includes a hash, data version, and compatibility metadata.
+
+An open dashboard exposes steps, losses, learning rates, gradients, throughput, GPU utilization, failures, recovery, checkpoints, energy, and cumulative cost. Evaluation scripts, data, and raw results cover knowledge, math, coding, multilingual ability, factuality, bias, privacy, robustness, and misuse risk. Release model cards, data cards, risk cards, and independent audits.
+
+## Compute, funding, and people
+
+Accept cloud credits, university clusters, idle enterprise servers, personal devices, storage, bandwidth, and donations. Build a public GPU pool with node registration, verification, scheduling, checkpoint synchronization, and fault recovery. Publish monthly income and expenses, including GPUs, power, hosting, storage, bandwidth, staffing, and audits.
+
+## Governance and safety
+
+Create a community assembly, technical committee, data and ethics committee, safety committee, and financial audit committee. Major releases, data policies, licenses, and budgets require public RFCs and recorded review. Maintain red-team testing, incident response, copyright complaints, and model withdrawal procedures.
+
+## First 12 months
+
+1. Publish the charter, licenses, and data-governance policy; establish repositories and community channels.
+2. Build data versioning, training infrastructure, experiment tracking, and a public dashboard.
+3. Train and release OpenAll-7B with recipes, code, checkpoints, logs, and evaluations.
+4. Complete independent safety, copyright, and reproducibility audits; fix issues and publish a stable release.
+5. Start the 14B/32B stage only after compute, funding, and performance gates are met.
+
+## Public pledge
+
+If AI learns from knowledge created collectively by humanity, it should return value through systems that are open, transparent, and reusable. OpenAll starts at 7B and aims for 10T+, placing every line of code, dataset, training run, and release under public scrutiny.
+
